@@ -46,7 +46,7 @@ dependencies:
   - scikit-learn==1.2.2
   - scipy==1.16.0
   - seaborn==0.13.2
-  - statsmodels==0.14.0
+  - statsmodels==0.14.5
 
   # fall 2023:  https://github.com/berkeley-dsep-infra/datahub/issues/5130
   - cpuonly==2.0
